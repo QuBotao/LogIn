@@ -1,0 +1,31 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "LogIn",
+  "main": "Log.js",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "style-loader": "^0.14.1",
+    "url-loader": "^0.5.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuBotao/LogIn.git"
+  },
+  "author": "ScriptTao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuBotao/LogIn/issues"
+  },
+  "homepage": "https://github.com/QuBotao/LogIn#readme"
+}
